@@ -16,3 +16,10 @@
 (06)    Checkout develop
 (07)    Checkout -b feature/Ticket220
 (13)    Stash
+(17)    Editar bitacora.txt
+(18)    Add bitacora.txt
+        Commit "Paso 18"
+(19)    Checkout develop
+(20)    Checkout -b feature/Ticket222
+(21)    Checkout feature/Ticket220
+(22)    El merge se haria de forma recursiva
