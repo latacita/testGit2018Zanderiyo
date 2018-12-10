@@ -11,3 +11,38 @@
 (03)    Add bitacora.txt
         Commit "Añadido apellidos y nombre del alumno"
         Push origin master
+(05)    Add bitacora.txt
+        Commit "Paso 05"
+(06)    Checkout develop
+(07)    Checkout -b feature/Ticket220
+(09)    Add bitacora.txt
+        Commit "Paso 09"
+(10)    Checkout develop
+(11)    checkout -b feature/Ticket221
+(13)    Stash
+(15)    Add bitacora.txt
+        Commit "Paso 15"
+(16)    Checkout feature/Ticket221
+(17)    Editar bitacora.txt
+(18)    Add bitacora.txt
+        Commit "Paso 18"
+(19)    Checkout develop
+(20)    Checkout -b feature/Ticket222
+(21)    Checkout feature/Ticket220
+(22)    El merge se haria de forma recursiva
+(23)    Add bitacora.txt
+        Commit "Paso 23"
+(24)    Checkout develop
+(25)    Merge feature/Ticket220
+(26)    Merge feature/Ticket221   Hay conflictos ya que en lineas iguales hay
+                                  distinto contenido,luego hay que arreglarlo.
+                                  Para ello modifico el fichero ordenando los
+                                  pasos por orden numerico. A continuación se
+                                  hace un commit con los errores solucionados
+                                  y la rama ya estaria integrada.
+(28)    Add bitacora.txt
+        Commit "Paso 28"
+(29)    Tag Step29
+(30)    Push origin develop (quitando la opcion push all tags)
+(31)    Checkout feature/Ticket222
+(32)    checkout develop -- bitacora.txt
