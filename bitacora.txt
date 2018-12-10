@@ -15,7 +15,14 @@
         Commit "Paso 05"
 (06)    Checkout develop
 (07)    Checkout -b feature/Ticket220
+(09)    Add bitacora.txt
+        Commit "Paso 09"
+(10)    Checkout develop
+(11)    checkout -b feature/Ticket221
 (13)    Stash
+(15)    Add bitacora.txt
+        Commit "Paso 15"
+(16)    Checkout feature/Ticket221
 (17)    Editar bitacora.txt
 (18)    Add bitacora.txt
         Commit "Paso 18"
