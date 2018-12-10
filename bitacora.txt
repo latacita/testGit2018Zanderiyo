@@ -6,3 +6,8 @@
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+(01)    Clone urlRepositorio
+(02)    Rellenar el apartado de Alumno
+(03)    Add bitacora.txt
+        Commit "Añadido apellidos y nombre del alumno"
+        Push origin master
