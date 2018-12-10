@@ -40,3 +40,9 @@
                                   pasos por orden numerico. A continuación se
                                   hace un commit con los errores solucionados
                                   y la rama ya estaria integrada.
+(28)    Add bitacora.txt
+        Commit "Paso 28"
+(29)    Tag Step29
+(30)    Push origin develop (quitando la opcion push all tags)
+(31)    Checkout feature/Ticket222
+(32)    checkout develop -- bitacora.txt
