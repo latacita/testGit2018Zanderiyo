@@ -11,3 +11,10 @@
 (03)    Add bitacora.txt
         Commit "Añadido apellidos y nombre del alumno"
         Push origin master
+(09)    Add bitacora.txt
+        Commit "Paso 09"
+(10)    Checkout develop
+(11)    checkout -b feature/Ticket221
+(15)    Add bitacora.txt
+        Commit "Paso 15"
+(16)    Checkout feature/Ticket221
