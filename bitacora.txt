@@ -46,3 +46,15 @@
 (30)    Push origin develop (quitando la opcion push all tags)
 (31)    Checkout feature/Ticket222
 (32)    checkout develop -- bitacora.txt
+(34)    Add bitacora.txt
+        Commit "Paso 34"
+(35)    Checkout develop
+        Merge feature/Ticket222   Hay conflictos debido a que he introducido
+                                  algun espacio extra y en lineas en las que
+                                  deberia haber espacios en blanco, hay contenido
+                                  en alguna de ellas. Se soluciona quitando ese
+                                  espacio en blanco y haciendo el commit Para
+                                  que esa rama quede integrada
+(36)    Checkout master
+        Merge develop
+(37)    Editar el fichero bitacora.txt
